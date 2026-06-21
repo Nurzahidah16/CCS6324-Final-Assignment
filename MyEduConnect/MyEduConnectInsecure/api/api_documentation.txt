@@ -1,0 +1,11 @@
+GET /api/courses.php
+
+Returns available courses
+
+GET /api/student.php
+
+Returns registered students
+
+GET /api/parent.php
+
+Returns parent accounts
